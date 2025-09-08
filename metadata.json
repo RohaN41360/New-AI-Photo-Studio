@@ -1,0 +1,5 @@
+{
+  "name": "AI Photo Studio",
+  "description": "An AI-powered image editing tool with a simple 3-step workflow: upload, generate, and download. Create professional headshots, creative poses, or custom edits from a single photo.",
+  "requestFramePermissions": []
+}
